@@ -1,1 +1,0 @@
-['ab', 'an', 'auf', 'aus', 'bei', 'durch', 'ein', 'entgegen', 'gegen', 'hin', 'hinter', 'in', 'mit', 'nach', 'neben', 'oben', 'ohne', 'um', 'unter', 'über', 'von', 'vor', 'vorbei', 'wider', 'wieder', 'zu', 'zwischen',]
