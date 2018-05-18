@@ -1,0 +1,11 @@
+
+Compounds final corpus:
+
+- compound
+- left part (lp)
+- pos of lp
+- suff of lp
+- right part (rp)
+- pos of rp
+- suff of rp
+- translation (word/pos/case)
